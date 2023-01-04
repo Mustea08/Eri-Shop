@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.489f6550.css",
+    "main.js": "/static/js/main.6016a67f.js",
+    "static/media/f2.png": "/static/media/f2.4e70a4f906ad3debae5b.png",
+    "static/media/store.png": "/static/media/store.b6a9589f83c042ddc8fe.png",
+    "static/media/sudan.jpg": "/static/media/sudan.4659f59edadac062d11e.jpg",
+    "static/media/southsudan.jpg": "/static/media/southsudan.aaaad2919ea7a264099b.jpg",
+    "static/media/syria.jpg": "/static/media/syria.c0f7d97e04236a544502.jpg",
+    "static/media/eritrea.jpg": "/static/media/eritrea.52a60d0a77ad828d93fe.jpg",
+    "static/media/somal.jpg": "/static/media/somal.ad22f76c591c3739360f.jpg",
+    "static/media/yemen.jpeg": "/static/media/yemen.1326331bdd2d6c1143dd.jpeg",
+    "static/media/ethiopia.jpg": "/static/media/ethiopia.cbfe703acf5ae07f734b.jpg",
+    "index.html": "/index.html",
+    "main.489f6550.css.map": "/static/css/main.489f6550.css.map",
+    "main.6016a67f.js.map": "/static/js/main.6016a67f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489f6550.css",
+    "static/js/main.6016a67f.js"
+  ]
+}
